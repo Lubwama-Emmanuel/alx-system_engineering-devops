@@ -1,9 +1,4 @@
-fg
-r
-fg
-r
-fg
-h
-fd
-gh
-boy
+this is line conatins root
+this line conatins root
+this line doest 
+and this
